@@ -81,6 +81,7 @@ add_executable(
     main.cpp
     every_instantiated_sorter.cpp
     every_sorter.cpp
+    every_sorter_deque.cpp
     every_sorter_move_only.cpp
     every_sorter_span.cpp
     is_stable.cpp
