@@ -34,7 +34,7 @@
 #include <cpp-sort/utility/buffer.h>
 #include <cpp-sort/utility/functional.h>
 
-TEST_CASE( "test every sorter", "[sorters][deque]" )
+TEST_CASE( "test every sorter with deque", "[sorters][deque]" )
 {
     // General test to make sure that every sorter compiles fine
     // and is able to sort a deque of numbers. spread_sorter is
